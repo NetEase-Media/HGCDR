@@ -1,0 +1,8 @@
+dgl-cu113==0.7.2
+scikit-learn
+pandas
+torch
+torchvision
+torchaudio
+tensorboard
+info-nce-pytorch
