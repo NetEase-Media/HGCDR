@@ -2,7 +2,8 @@
 
 # 1. Background
 This project is the implementation for 'Heterogeneous Graph-based Framework with Disentangled Representations Learning for Multi-target Cross Domain Recommendation' 
-Link to paper: https://arxiv.org/abs/2407.00909
+
+Link to our paper: https://arxiv.org/abs/2407.00909
 
 # 2. Install & Run
 1. Make sure that your virtual env has the following packages:
